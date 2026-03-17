@@ -5,7 +5,7 @@ Matrepers: A Defensive Barrier System
 
 Overview
 
-Matrepers is a Python-based defensive barrier system that uses the Kivy framework to protect against one-dimensional projectiles, reducing escalation risks and preventing harm to humans, animals, and the environment. The system is designed to operate from ground level to space, providing a comprehensive defense solution against man-made threats.
+Matrepers is a Python-based defensive barrier portable pocket device system that' uses the Kivy framework to protect against one-dimensional projectiles, reducing escalation risks and preventing harm to humans, animals, and the environment. The system is designed to operate from ground level to space, providing a comprehensive defense solution against man-made threats.
 
 Key Features
 
